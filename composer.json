@@ -16,7 +16,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Snap\\WPUnit": "src/"
+      "Snap\\WPUnit\\": "src/"
     }
   },
   "require": {
